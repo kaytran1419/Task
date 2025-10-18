@@ -1,21 +1,13 @@
 {
-  "name": "task",
+  "name": "todox",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
-    "start": "npm start --prefix backend"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kaytran1419/Task-.git"
+    "start": "npm run start --prefix backend"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kaytran1419/Task-/issues"
-  },
-  "homepage": "https://github.com/kaytran1419/Task-#readme"
+  "description": ""
 }
