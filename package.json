@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaytran1419/Task-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kaytran1419/Task-/issues"
+  },
+  "homepage": "https://github.com/kaytran1419/Task-#readme"
 }
